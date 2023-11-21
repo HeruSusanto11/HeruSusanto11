@@ -1,6 +1,7 @@
-Perkenalkan nama saya Heru Susanto
-saya merupakan mahasiswa semester akhir
-dan tertarik dengan dunia digital yang luas seperti sekarang ini.
-semoga kalian mudah memahami apa yang saya upload di beranda saya
-beberapa program yang saya buat,merupakan program yang sederhana dan cocok untuk pemula seperti saya ini :)
-nuhunnnnnn :) :)
+“You can’t connect the dots looking forward; 
+you can only connect them looking backward.
+So you have to trust that the dots will somehow connect in your future.”
+
+(Kamu tidak dapat menghubungkan titik-titik ke depan, 
+kamu hanya dapat menghubungkannya dengan melihat ke belakang. 
+Jadi, kamu harus percaya bahwa titik-titik itu entah bagaimana akan terhubung di masa depanmu.) – Steve Jobs
